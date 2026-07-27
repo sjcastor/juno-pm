@@ -1,4 +1,4 @@
-# Juno PM — Lovable Prototype
+<img width="1462" height="935" alt="image" src="https://github.com/user-attachments/assets/7ef2dcd3-8da6-4939-b73c-67739a446f1d" /># Juno PM — Lovable Prototype
 
 ## Lovable share link
 _(paste your Lovable share URL here — e.g. `https://lovable.dev/projects/...`)_
@@ -19,7 +19,9 @@ _(paste the URL of the GitHub repo you connected from Lovable — e.g. `https://
 The UI looks production-grade but the AI summary has no real product brain. The CSS export crash gets buried in noise. The bright-blue nav bar gets prioritised over a $50k Mike-Ross blocker. The dark-mode request gets filed as a bug. **Module 1 Section 04 (Prompting as Product Configuration) and the System Prompt Configurator tool fix this.**
 
 ## Screenshots
-_(drop 1–2 screenshots in this folder and reference them here)_
+_(drop 1–2 screenshots in this folder and reference them here)
+
+<img width="1462" height="935" alt="image" src="https://github.com/user-attachments/assets/462c9613-2094-4655-852b-f39458a2f772" />
 
 ## Design refinement path used
 _(circle one and add a sentence about why)_
