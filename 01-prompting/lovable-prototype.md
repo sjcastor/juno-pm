@@ -1,4 +1,3 @@
-<img width="1462" height="935" alt="image" src="https://github.com/user-attachments/assets/7ef2dcd3-8da6-4939-b73c-67739a446f1d" /># Juno PM — Lovable Prototype
 
 ## Lovable share link
 _(paste your Lovable share URL here — e.g. `https://lovable.dev/projects/...`)_
