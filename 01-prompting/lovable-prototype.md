@@ -3,6 +3,8 @@
 ## Lovable share link
 _(paste your Lovable share URL here — e.g. `https://lovable.dev/projects/...`)_
 
+https://lovable.dev/projects/1aa90347-127c-443e-92b0-f73916adb691?magic_link=mc_ca2d2d0a-8a04-4d9e-8771-6c6ec76d19a4
+
 ## GitHub source code
 _(paste the URL of the GitHub repo you connected from Lovable — e.g. `https://github.com/<you>/juno-pm-prototype`)_
 
